@@ -17,4 +17,4 @@ Collection of Algorithmic methods to play the strategic game of Battleships. We 
 ###
 We implement and emulate games for each method. The following plot displays the performance of each of the three methods. On x axis is the number of moves to win and on y axis is a cumulative count of games.
 
-![evaluation](../data/battleship-algo-eval.png)
+![evaluation](./data/battleship-algo-eval.png)
